@@ -7,6 +7,7 @@ function Headline(props) {
     return (
         <div>
             <h2>{props.Heading.length} {props.Heading}</h2>
+            <p>hello</p>
         </div>
     )
 }

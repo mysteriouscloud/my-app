@@ -19,7 +19,7 @@ function HomePage(){
                 >
                 Learn React
                 </a>
-                <Headline Heading = "hello hi" > </Headline>
+                <Headline Heading = "hello hi" ></Headline>
         </div>
     );
 }
